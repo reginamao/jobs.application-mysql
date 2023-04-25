@@ -4,7 +4,7 @@
 
 - [Background](#background)
 - [Environment](#environment)
-- [Package](#package)
+- [Original Dataset](#original-dataset)
 - [Source Code](#source-code)
 - [Result](#result)
 - [Reference Source](#reference-source)
@@ -22,7 +22,7 @@ Before (Notes on Mac)
 ![ReginaMao](https://imgur.com/1743swr.png "jobs")
 
 ## Source Code
-View more[Job.application.sql](https://github.com/reginamao/jobs.application-mysql/blob/main/Jobs.application.sql)
+View more > [Job.application.sql](https://github.com/reginamao/jobs.application-mysql/blob/main/Jobs.application.sql)
 
 ## Result
 ![ReginaMao](https://imgur.com/v8il9Cs.gif)
