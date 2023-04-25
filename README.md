@@ -18,27 +18,27 @@ MySQL
 
 ## Basic Functions
 
-ˋˋˋ
+```
 create database jobs;
-ˋˋˋ
+```
 
-ˋˋˋ
+```
 $CREATE TABLE table_name (
     column_name1 data_type,
     column_name2 data_type,
     ...
 )
-ˋˋˋ
+```
 
-ˋˋˋ
+```
 SELECT * FROM table_name;
 )
-ˋˋˋ
+```
 
-ˋˋˋ
+```
 SELECT * FROM Job.application
 WHERE Status is NOT NULL;
-ˋˋˋ
+```
 ![ReginaMao](https://imgur.com/stukrgI.gif)
 
 ## Original Dataset
