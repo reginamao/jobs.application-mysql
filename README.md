@@ -19,11 +19,11 @@ MySQL
 ## Basic Functions
 
 ```
-create database jobs;
+CREATE DATABASE jobs;
 ```
 
 ```
-$CREATE TABLE table_name (
+CREATE TABLE table_name (
     column_name1 data_type,
     column_name2 data_type,
     ...
@@ -33,6 +33,11 @@ $CREATE TABLE table_name (
 ```
 SELECT * FROM table_name;
 )
+```
+
+```
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
 ```
 
 ```
