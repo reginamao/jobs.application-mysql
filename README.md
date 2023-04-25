@@ -4,6 +4,7 @@
 
 - [Background](#background)
 - [Environment](#environment)
+- [Basic Functions](#basic-functions)
 - [Original Dataset](#original-dataset)
 - [Source Code](#source-code)
 - [Result](#result)
@@ -17,6 +18,7 @@
 MySQL
 
 ## Basic Functions
+**Just to name a few** 
 
 ```
 CREATE DATABASE jobs;
